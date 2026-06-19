@@ -8,10 +8,10 @@ Predictive Maintenance: Machine Failure Prediction Using Machine Learning
 
 ## Files
 
-- `M505_Predictive_Maintenance_AI4I_f.ipynb`: original Jupyter Notebook
-- `M505_Predictive_Maintenance_AI4I_f.html`: exported HTML report
-- `requirements.txt`: required Python libraries
-- `data/predictive_maintenance_v3.csv`: dataset used in the project
+- `M505_Predictive_Maintenance_IndustrialKaggle.ipynb` : original Jupyter Notebook
+- `M505_Predictive_Maintenance_IndustrialKaggle.html` : exported HTML report
+- `requirements.txt` : required Python libraries
+- `data/predictive_maintenance_v3.csv` : dataset used in the project
 
 ## Dataset
 
